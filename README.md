@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kurranaveen14-beep/Naveen/blob/f9e60302831630aa2cf341ea17102eb1827dba6a/data-analysis-banner.png" alt="Data Analysis Banner" width="70%" />
+  <img src="https://github.com/kurranaveen14-beep/kurranaveen14-beep/blob/1ede940d7defa23966fe5d7bf8b6fb429424e79b/Data%20Analyst%20image.png" alt="Data Analyst Banner" width="70%" />
 </p>
 
 
