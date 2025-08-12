@@ -64,7 +64,7 @@ Eager to contribute to **analytical projects** in fast-paced, collaborative envi
 
 ## 📬 Let’s Connect!  
 🌐 **Portfolio:** [fantastic-taiyaki-89db10.netlify.app](https://fantastic-taiyaki-89db10.netlify.app/)  
-💼 **LinkedIn:** [Kurra Naveen](https://www.linkedin.com/in/kurra-naveen-715169226)  
+💼 **LinkedIn:** (https://www.linkedin.com/in/kurra-naveen-715169226)  
 📧 **Email:** [kurranaveen14@gmail.com](mailto:kurranaveen14@gmail.com)  
 
 <p align="center">
